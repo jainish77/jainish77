@@ -8,7 +8,7 @@ I recently graduated from Syracuse University with a Master’s in Information S
 📫 Contact me via:
 
 Email: jainish7.js@gmail.com
-Resume:[Jainish Savaliya](link-to-your-resume-file)
+Resume:[Jainish Savaliya](https://github.com/jainish77/jainish77/blob/main/Jainish%20Savaliya%20%20Resume.docx)
 
 
 
