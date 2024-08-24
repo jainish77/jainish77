@@ -1,5 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%F0%9F%91%8B%2C+I'm+Jainish+Savaliya;Welcome+to+my+GitHub+profile;Machine+learning;Data+Science;Business+Analytics&width=500)](https://git.io/typing-svg)
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%F0%9F%91%8B%2C+I'm+Jainish+Savaliya;Welcome+to+my+GitHub+profile;Machine+learning;Data+Science;Business+Analytics&width=500&size=30&height=70&center=true&vCenter=true&font=bold" alt="Typing SVG" />
+  </a>
+</div>
+
 
 About me
 
@@ -10,6 +17,6 @@ I recently graduated from Syracuse University with a Master’s in Information S
 Email: jainish7.js@gmail.com
 
 Resume:[Jainish Savaliya](https://github.com/jainish77/jainish77/blob/main/Jainish%20Savaliya%20%20Resume.docx)
-
+ 
 
 
